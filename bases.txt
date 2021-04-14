@@ -1,0 +1,29 @@
+1)login
+2)registro
+(uso boostrap)
+3)vista roles (creacion, modificacion)
+4)usuarios (modificacion)
+5)menú superior (estudiantes:crear-modificar-notas)
+6)materias(crear, modificar)
+7)vista de notas para estudiante
+
+
+index.html
+crear.html
+editar.html
+(dentro de modulos)
+
+
+
+clonar:
+carpeta nueva (projecto)
+abrir con vc
+
+
+
+mañana:
+admin- MENU (roles-usuarios-estudiantes{sub menú: ver estudiantes-materias-archivos})
+
+estudiantes- MENU(mi info-archivos-notas)
+
+profesor - MENU(estudiantes{ver estudiantes}-materias-archivos)
